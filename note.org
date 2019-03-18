@@ -1,0 +1,11 @@
+#+AUTHOR: Tristian Hsu
+#+DATE: <2019-03-17 Sun>
+
+* English
+  - Words
+  - Listening
+  - Reading
+    
+* Reading Notes
+  
+* Programming
